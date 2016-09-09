@@ -2,6 +2,8 @@
 
 Sistema de Gerenciamento de Eventos
 
+[![Build Status](https://travis-ci.org/murilosandiego/eventex-wttd.svg?branch=master)](https://travis-ci.org/murilosandiego/eventex-wttd)
+
 ## Como desenvolver?
 
 1. Clone o repositório
