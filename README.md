@@ -3,6 +3,7 @@
 Sistema de Gerenciamento de Eventos
 
 [![Build Status](https://travis-ci.org/murilosandiego/eventex-wttd.svg?branch=master)](https://travis-ci.org/murilosandiego/eventex-wttd)
+[![Code Health](https://landscape.io/github/murilosandiego/eventex-wttd/master/landscape.svg?style=flat)](https://landscape.io/github/murilosandiego/eventex-wttd/master)
 
 ## Como desenvolver?
 
