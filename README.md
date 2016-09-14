@@ -19,14 +19,14 @@ git clone https://github.com/murilosandiego/eventex-wttd.git wttd
 cd wttd
 python -m venv .wttd
 source .wttd/bin/activate
-pip install -r requirements.txt
+pip install -r requirements-dev .txt
 cp contrib/env-sample .env
 python manage.py test
 ```
 
 ## Como fazer o deploy?
 
-1. Crie uma instância no heroku
+1. Crie uma instância no heroku   
 2. Envie as configurações para o heroku
 3. Define uma SECRETY_KEY segura para instância
 4. Defina DEBUG=False
